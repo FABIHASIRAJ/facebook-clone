@@ -1,0 +1,64 @@
+button{
+    float: right;;
+    background:#282aaa;
+    padding: 10px 15px;
+    color: #fff;
+    Border-radius: 5px;
+    margin-right: 50px;
+    border:none;
+    margin-right: 580px;
+    width: 187px;
+
+}
+.a
+{
+    font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+    background: linear-gradient(white, #D3D8E8);
+    margin-top: 100px;
+    font-size: 70px;
+    width: 100%;
+    padding: 0%;
+    color: rgb(10, 112, 196);
+    margin-bottom: auto;
+    margin-left: auto;
+    text-align: center;
+    background-color: rgb(188, 206, 200);
+    font-family: 'verdana';
+    line-height:0%
+    
+}
+
+.f{
+    align-items: center;
+}
+.b{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.c{
+    background-color: rgb(23, 23, 180);
+    text-align: center;
+    width: 185px;
+    color: beige;
+}
+.a1{
+    border: 20px;
+    background-color: #e9edee;
+    background: linear-gradient(white, #D3D8E8);
+form{
+    align="center";
+}
+
+    
+}
+loginin{
+   margin-top: 100px;
+    width: 300px;
+    height: 200px;
+    border: 5px solid;
+    padding: 50px;
+    float: right;
+    margin-right: center
+    border-color: rgb(176, 215, 241);
+    b
+}
